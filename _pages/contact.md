@@ -23,5 +23,5 @@ Phone lab: +33 16915 8011
 
 <a href = "mailto: alexandra.palacio-morales@universite-paris-saclay.fr">alexandra.palacio-morales@universite-paris-saclay.fr</a>
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/LPS.jpg" style="width: 70%; float: center; margin: 0px" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/LPS.jpg" />
 
