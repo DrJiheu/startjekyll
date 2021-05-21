@@ -6,7 +6,7 @@ sitemap: false
 permalink: /Teaching/
 ---
 
-Lectures, exercises and practical documents are available upon request. 
+**Lectures, exercises and practical documents are available upon request.**
 
 #### University Paris-Saclay (since 09/2019): 
 * Mechanics I (Bachelor – 1<sup>st</sup> year)
