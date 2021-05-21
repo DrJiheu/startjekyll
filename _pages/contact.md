@@ -7,20 +7,26 @@ permalink: /Contact/
 ---
 
 # Contact
-Alexandra Palacio Morales
-
-<a href="https://www.lps.u-psud.fr/?lang=fr">**Laboratoire de Physique des Solides**</a>
+**Alexandra Palacio Morales**
 
 <a href="https://www.universite-paris-saclay.fr/">**Université Paris-Saclay**</a>
 
-<a href="https://www.equipes.lps.u-psud.fr/ns2/index.shtml">Team: **Les nanostructures à la nanoseconde**</a>
+[Laboratoire de Physique des Solides](https://www.lps.u-psud.fr/?lang=fr)
 
-Bâtiment 510, office N0.08
+[Team: Les nanostructures à la nanoseconde](https://www.equipes.lps.u-psud.fr/ns2/index.shtml)
+
+1 rue Nicolas Appert, Bâtiment 510, office N0.08
 
 91405 Orsay, France
 
+Mail: <a href = "mailto: alexandra.palacio-morales@universite-paris-saclay.fr">alexandra.palacio-morales@universite-paris-saclay.fr</a>
+
 Phone lab: +33 16915 8011
 
-<a href = "mailto: alexandra.palacio-morales@universite-paris-saclay.fr">alexandra.palacio-morales@universite-paris-saclay.fr</a>
+[**How to reach us**](https://www.lps.u-psud.fr/spip.php?article108)
+
+
+
+
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/LPS.jpg" />
