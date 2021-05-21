@@ -6,14 +6,21 @@ sitemap: false
 permalink: /
 ---
 
+<p style="text-align: justify">
+I am currently an Associate Professor at [University Paris-Saclay](https://www.universite-paris-saclay.fr/) working at [Laboratoire de Physique des Solides](https://www.lps.u-psud.fr/?lang=fr) in the team [Nanostructures at the NanoSecond](https://www.equipes.lps.u-psud.fr/ns2/index.shtml). 
+My current research topics focus on correlations and dynamics at the atomic scale of quantum materials.
+</p>
 
-<p style="text-align: justify">
-Young lecturer at the [University of Paris-Saclay](https://www.universite-paris-saclay.fr/). Recently, I have studied hybrid magnetic-superconducting systems at the atomic scale as well as two-dimensional transition metal dichalcogenide materials.
-</p>
-<p style="text-align: justify">
-These systems are platforms to observe a topological superconducting phase with Majorana Fermions.
-Indeed, I have observed using spin-polarized local atomic scale spectroscopy (STM/STS) the Majorana states in hybrid systems and have shown that a simple modification of the coupling at the atomic scale can induce the phase transition between the topological and trivial state. Now, my research focuses on the analysis of the dynamics of these states using atomic scale shot noise measurements.
-</p>
+<br>
+
+**Short Bio:** 
+
+* **2019 - today** 	Associate Professor at [University Paris-Saclay](https://www.universite-paris-saclay.fr/alexandra-palacio-morales)
+* **2018 - 2019**	Postdoctoral Researcher at Sorbonne University, INSP, [T. Cren’s group](http://www.insp.upmc.fr/-Spectroscopie-des-nouveaux-etats-.html?lang=en)
+* **2017 - 2018**	Postdoctoral Researcher at Hamburg University, [Prof. Wiesendanger’s group](http://www.nanoscience.de/HTML/index.html) - [Astonish ERC project](http://www.nanoscience.de/astonish/)
+* **2015 - 2017**	[Alexander von Humboldt Postdoctoral Research Fellow](https://www.humboldt-foundation.de/) - Affiliation: Hamburg University, [Prof. Wiesendanger’s group](http://www.nanoscience.de/HTML/index.html)
+* **2011 – 2014** 	PhD - [University Grenoble Alpes](https://www.univ-grenoble-alpes.fr/) - [CEA/Imapec Team](https://www.pheliqs.fr/en/Imapec)
+
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="3000" data-pause="hover" >
     <!-- Menu -->

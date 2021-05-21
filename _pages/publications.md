@@ -3,13 +3,10 @@ title: "Alexandra Palacio Morales - Publications"
 layout: gridlay
 excerpt: "Alexandra Palacio Morales -- Publications."
 sitemap: false
-permalink: /publications/
+permalink: /Publications/
 ---
 
-
 # Publications
-
-
 
 (For a full list see [below](#full-list) or go to [Publons](https://publons.com/researcher/2243867/alexandra-palacio-morales/))
 {% for year in site.data.years %}

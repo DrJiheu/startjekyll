@@ -1,5 +1,5 @@
 ---
-title: "Contact"
+title: "Alexandra Palacio Morales - Contact"
 layout: textlay
 excerpt: "Contact"
 sitemap: false
@@ -24,4 +24,3 @@ Phone lab: +33 16915 8011
 <a href = "mailto: alexandra.palacio-morales@universite-paris-saclay.fr">alexandra.palacio-morales@universite-paris-saclay.fr</a>
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/LPS.jpg" />
-
